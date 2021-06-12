@@ -1,0 +1,50 @@
+.graytext{
+     background-color: green;
+}
+.container-fluid{
+    border: 1px;
+    height: 300px;
+    font-size: 20px;
+    background-color: aqua;
+    text-align: center;
+    font-style: italic;
+}
+  table , .table table-bordered , .table table-dark{
+    border: 2px;
+    color: blue;
+    font-size: 20px;
+       
+}
+.col-sm-1{
+    border: 1px solid;
+    color: burlywood;
+    
+} 
+ .col-sm-2{
+    border: 1px solid;
+     color: cadetblue;
+} 
+.col-sm-4{
+    border: 1px solid;
+    color: antiquewhite;
+}
+.col-sm-8{
+    border: 1px solid;
+    color: darkgoldenrod;
+} 
+.col-sm-12{
+    border: 1px solid;
+    color: bisque;
+} 
+
+table:hover{
+background-color: aliceblue; 
+    color: blue;
+}
+img , .img-fluid{
+    width: 400px;
+    height: 300px;
+    
+}
+
+ 

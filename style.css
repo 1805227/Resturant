@@ -1,0 +1,76 @@
+#outer{
+            height:630px;
+            width: 100%;
+            border:1px solid;
+        }
+        .h1{
+           height: 300px;
+            width: 20%;
+           // background: darkgreen;
+            background-image: url(Penguins.jpg);
+            background-position: top;
+            //border:1px solid;
+            float: left;
+        }
+        .h2 , h4:hover+p{
+           height: 300px;
+            width: 20%;
+          //  background-color: aqua;
+            background-image: url(Koala.jpg);
+            //border:1px solid;
+            float: left;
+          }
+         h4{
+            color: red;
+             text-align: center;
+        }
+         .h3{
+           height: 300px;
+            width: 20%;
+        //    background: skyblue;
+             background-image: url(Desert.jpg);
+             background-position: center;
+            //border:1px solid;
+            float: left;
+            } 
+          p{
+            color:black;
+            font-style:oblique;
+              padding-left: 5px;
+             // text-decoration: none;
+        }
+           .h4{
+           height: 300px;
+            width: 20%;
+            background: purple;
+            //border:1px solid;
+            float: left;
+            }
+           h1{
+           color: crimson;
+               text-decoration: underline;
+               text-align: center;
+              }
+table{
+    border: 0px;
+    width: 200px;
+    height: 100px;
+    padding-left: 40px;
+}
+td{
+   padding-left: 10px;
+}
+img{
+    width: 100px;
+    height: 100px;
+   // line-height: 50px;
+   // text-decoration: none;
+    
+}
+.h3 p:hover , .un:hover , img:hover{
+    color:orangered;
+    font-size: 14px;
+    text-decoration: underline;
+    text-decoration-color: darkblue;    
+}
+    
